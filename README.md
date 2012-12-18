@@ -8,7 +8,7 @@
 
 ![Log4J log](http://logging.apache.org/log4j/2.x/images/logo.jpg)
 
-**Log4J v2.0 beta 3**
+**Log4J v1.2**
 
 
 Installation
@@ -22,4 +22,4 @@ Requierements
 -------------
 
 - I am using Java SE 7. 
-- Download the binary package of _Log4J 2.0 beta 3_.
+- Download the binary package of _Log4J 1.2_.
