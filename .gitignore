@@ -1,5 +1,5 @@
 .project
 .settings
 .classpath
-./bin/*
-.DS_STORE
+Log4J-Newbie/bin/
+.DS_Store
