@@ -14,7 +14,7 @@ import org.apache.log4j.SimpleLayout;
  */
 public class HelloWorld {
 
-	private static Logger logger = LogManager.getLogger("MyFirstLogger");
+	private static Logger logger = LogManager.getLogger(HelloWorld.class);
 	 
 	 
 	public static void main(String[] args) {
