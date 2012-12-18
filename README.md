@@ -14,11 +14,12 @@
 Installation
 ------------
 
-- Make sure you added **Core** and **Api** .jars to your Java Project using your IDE.  
+- Make sure you added **Core** and **Api** .jars to your Java Project using your IDE.
+- You can configure your IDE to take in consideration the *Javadoc* of Core and Api jars, that may be useful.
 
 
 Requierements
 -------------
 
-- Java SE 7 and Log4J 2.0 beta 3
- 
+- I am using Java SE 7. 
+- Download the binary package of _Log4J 2.0 beta 3_.
