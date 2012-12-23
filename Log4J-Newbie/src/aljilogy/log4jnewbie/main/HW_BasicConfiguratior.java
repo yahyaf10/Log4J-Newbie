@@ -11,23 +11,17 @@ import org.apache.log4j.Logger;
  * @author Mohamed ALJI
  *
  */
-public class HelloWorld {
+public class HW_BasicConfiguratior {
 
-	private static Logger logger = LogManager.getLogger(HelloWorld.class);
+	private static Logger logger = LogManager.getLogger(HW_BasicConfiguratior.class);
 	 
 	 
 	public static void main(String[] args) {
 			
-		
+		// Quickly configure package
 	    BasicConfigurator.configure();
 
-		//SimpleLayout layout = new SimpleLayout();
-		
-		//ConsoleAppender stdout = new ConsoleAppender(layout);
-		//logger.addAppender(stdout);
-		
-		// app running
-		
+		// app running		
 		logger.info("my text to be logged as a INFO. ");
 		logger.debug("my text to be logged as a DEBUG");
 		logger.warn("my text to be logged as a WARN");
