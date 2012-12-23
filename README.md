@@ -2,7 +2,7 @@
 
 **Log4J-Newbie** is a _HelloWorld app_ using _Log4J_ for _Newbie_ only. 
 
-* **Log4J-Newbie :** the code source of the project. 
+* **Code-source :** the code source of the project. 
 * **apache-log4j-1.2.17	:** the _apache log4j_ version used is _1.2.17_.
 * **README.md :** readme you are reading.
 
