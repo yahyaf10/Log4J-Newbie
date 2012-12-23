@@ -1,7 +1,7 @@
 /**
  * 
  */
-package aljilogy.log4jnewbie.main2;
+package aljilogy.log4jnewbie.main;
 
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.LogManager;
@@ -11,28 +11,23 @@ import org.apache.log4j.Logger;
  * @author Mohamed ALJI
  *
  */
-public class HelloWorld2 {
+public class HW_BasicConfigurator {
 
-	private static Logger logger = LogManager.getLogger(HelloWorld2.class);
+	// create an instance of Logger 
+	private static Logger logger = LogManager.getLogger(HW_BasicConfigurator.class);
 	 
 	 
 	public static void main(String[] args) {
 			
-		
+		// Quickly configure package
 	    BasicConfigurator.configure();
 
-		//SimpleLayout layout = new SimpleLayout();
-		
-		//ConsoleAppender stdout = new ConsoleAppender(layout);
-		//logger.addAppender(stdout);
-		
-		// app running
-		
+		// app running		
 		logger.info("my text to be logged as a INFO. ");
 		logger.debug("my text to be logged as a DEBUG");
 		logger.warn("my text to be logged as a WARN");
-
-
+		logger.error("my text to be logged as a ERROR");
+		logger.fatal("my text to be logged as a FATAL"); 
 
 	}
 

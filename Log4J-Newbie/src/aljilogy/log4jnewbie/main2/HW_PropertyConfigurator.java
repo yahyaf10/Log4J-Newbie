@@ -1,28 +1,26 @@
 /**
  * 
  */
-package aljilogy.log4jnewbie.main;
+package aljilogy.log4jnewbie.main2;
 
-import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 
 /*
  * @author Mohamed ALJI
  *
  */
-public class HW_BasicConfiguratior {
+public class HW_PropertyConfigurator {
 
-	// create an instance of Logger 
-	private static Logger logger = LogManager.getLogger(HW_BasicConfiguratior.class);
+	private static Logger logger = LogManager.getLogger(HW_PropertyConfigurator.class);
 	 
 	 
 	public static void main(String[] args) {
 			
-		// Quickly configure package
-	    BasicConfigurator.configure();
-
-		// app running		
+		
+		PropertyConfigurator.configure("log4j.properties");
+		
 		logger.info("my text to be logged as a INFO. ");
 		logger.debug("my text to be logged as a DEBUG");
 		logger.warn("my text to be logged as a WARN");
