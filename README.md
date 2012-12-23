@@ -2,13 +2,13 @@
 
 **Log4J-Newbie** is a _HelloWorld app_ using _Log4J_ for _Newbie_ only. 
 
-## Log4J
+## Log4J v1.2
 
-**Log4J** is a **Java logging framework**. It is part of the Apache Software Foundation.
 
 ![Log4J log](http://logging.apache.org/log4j/2.x/images/logo.jpg)
 
-**Log4J v1.2**
+
+**Log4J** is a **Java logging framework**. It is part of the Apache Software Foundation.
 
 
 Installation
