@@ -1,7 +1,7 @@
 /**
  * 
  */
-package aljilogy.log4jnewbie.main;
+package aljilogy.log4jnewbie.main2;
 
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.LogManager;
@@ -11,9 +11,9 @@ import org.apache.log4j.Logger;
  * @author Mohamed ALJI
  *
  */
-public class HelloWorld {
+public class HelloWorld2 {
 
-	private static Logger logger = LogManager.getLogger(HelloWorld.class);
+	private static Logger logger = LogManager.getLogger(HelloWorld2.class);
 	 
 	 
 	public static void main(String[] args) {
