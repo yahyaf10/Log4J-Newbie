@@ -23,4 +23,4 @@ Requierements
 -------------
 
 - I am using `Java SE 7`, but the minimum for this project will be `Java SE 6` 
-- Download the binary package of _Log4J 1.2_ .
+- Download the binary package of `Log4J 1.2` .
