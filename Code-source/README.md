@@ -9,7 +9,7 @@ HelloWorld using BasicConfigurator to quickly configure the package.
 Source [DZone Tutorial log4J](http://www.dzone.com/tutorials/java/log4j/log4j-configuration.html)
 
 
-# src / aljilogy / HW_BasicConfiguratior 2 
+# src / aljilogy / HW_PropertyConfigurator 2 
 
 This HelloWorld will use an external properties file (an xml file) to configure Log4J. The aim is to allow configuration independently from the code. 
 You will get the same previous output, but using this time an external properties file for configuration.
