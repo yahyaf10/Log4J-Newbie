@@ -1,4 +1,4 @@
-# src.aljilogy.HW_BasicConfiguratior1 
+# src / aljilogy / HW_BasicConfiguratior 1 
 
 HelloWorld using BasicConfigurator to quickly configure the package. 
 * Create an instance of Logger
