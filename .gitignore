@@ -1,5 +1,8 @@
 .project
 .settings
 .classpath
-Log4J-Newbie/bin/
+*.class
+*.jar 
+*.ear
+*.war
 .DS_Store
