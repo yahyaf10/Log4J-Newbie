@@ -14,5 +14,7 @@ Source [DZone Tutorial log4J](http://www.dzone.com/tutorials/java/log4j/log4j-co
 This HelloWorld will use an external properties file (an xml file) to configure Log4J. The aim is to allow configuration independently from the code. 
 You will get the same previous output, but using this time an external properties file for configuration.
 
+The file name is **log4j.properties**. 
 
+Source [DZone Tutorial log4J](http://www.dzone.com/tutorials/java/log4j/sample-log4j-properties-file-configuration-1.html).
 
