@@ -1,6 +1,6 @@
 # Log4J-Newbie
 
-**Log4J-Newbie** is a HelloWorld app using Log4J for Newbie only. 
+**Log4J-Newbie** is a _HelloWorld app_ using _Log4J_ for _Newbie_ only. 
 
 ## Log4J
 
@@ -14,6 +14,7 @@
 Installation
 ------------
 
+- Create your Java  HelloWorld project under your chosen IDE.  
 - Make sure you added **Core** and **Api** .jars to your Java Project using your IDE.
 - You can configure your IDE to take in consideration the *Javadoc* of Core and Api jars, that may be useful.
 
@@ -21,5 +22,5 @@ Installation
 Requierements
 -------------
 
-- I am using Java SE 7. 
-- Download the binary package of _Log4J 1.2_.
+- I am using `Java SE 7`, but the minimum for this project will be `Java SE 6` 
+- Download the binary package of _Log4J 1.2_ .
