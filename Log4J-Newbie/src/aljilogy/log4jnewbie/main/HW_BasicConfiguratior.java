@@ -13,6 +13,7 @@ import org.apache.log4j.Logger;
  */
 public class HW_BasicConfiguratior {
 
+	// create an instance of Logger 
 	private static Logger logger = LogManager.getLogger(HW_BasicConfiguratior.class);
 	 
 	 
@@ -25,6 +26,8 @@ public class HW_BasicConfiguratior {
 		logger.info("my text to be logged as a INFO. ");
 		logger.debug("my text to be logged as a DEBUG");
 		logger.warn("my text to be logged as a WARN");
+		logger.error("my text to be logged as a ERROR");
+		logger.fatal("my text to be logged as a FATAL"); 
 
 
 
