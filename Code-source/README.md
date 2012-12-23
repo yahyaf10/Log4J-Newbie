@@ -18,3 +18,9 @@ The file name is **log4j.properties**.
 
 Source [DZone Tutorial log4J](http://www.dzone.com/tutorials/java/log4j/sample-log4j-properties-file-configuration-1.html).
 
+# src / aljilogy / HW_FileAppender 3
+
+This HelloWorld app will use an external configuration xml file **log4j_2.properties**, and it will output the logss to two places : Console and File called **Sample.log**.
+The logged messages in the file are above **Warn** level. 
+
+Source [DZone Tutorial log4J](http://www.dzone.com/tutorials/java/log4j/log4j-example-multiple-appender.html).
