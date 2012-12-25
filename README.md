@@ -1,4 +1,4 @@
-# Log4J-Newbie
+# Log4J for Newbies
 
 **Log4J-Newbie** is a _HelloWorld app_ using _Log4J_ for _Newbie_ only. 
 
