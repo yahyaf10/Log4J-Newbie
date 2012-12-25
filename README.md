@@ -13,17 +13,17 @@
 
 **Log4J** is a **Java logging framework**. It is part of the Apache Software Foundation.
 
-Logging Level [src](http://en.wikipedia.org/wiki/Log4j#Log_level)
+Logging Level
 -------------
 
-Level  Description
-- OFF	The highest possible rank and is intended to turn off logging.
-- FATAL	Severe errors that cause premature termination. Expect these to be immediately visible on a status console. 
-- ERROR	Other runtime errors or unexpected conditions. Expect these to be immediately visible on a status console.
-- WARN	Use of deprecated APIs, poor use of API, 'almost' errors, other runtime situations that are undesirable or unexpected, but not necessarily "wrong". Expect these to be immediately visible on a status console.
-- INFO	Interesting runtime events (startup/shutdown). Expect these to be immediately visible on a console, so be conservative and keep to a minimum.
-- DEBUG	Detailed information on the flow through the system. Expect these to be written to logs only.
-- TRACE	Most detailed information. Expect these to be written to logs only. Since version 1.2.12.
+Level : Description ,  [src](http://en.wikipedia.org/wiki/Log4j#Log_level)
+- **OFF**	: The highest possible rank and is intended to turn off logging.
+- **FATAL**	: Severe errors that cause premature termination. Expect these to be immediately visible on a status console. 
+- **ERROR**	: Other runtime errors or unexpected conditions. Expect these to be immediately visible on a status console.
+- **WARN**	: Use of deprecated APIs, poor use of API, 'almost' errors, other runtime situations that are undesirable or unexpected, but not necessarily "wrong". Expect these to be immediately visible on a status console.
+- **INFO**	: Interesting runtime events (startup/shutdown). Expect these to be immediately visible on a console, so be conservative and keep to a minimum.
+- **DEBUG**	: Detailed information on the flow through the system. Expect these to be written to logs only.
+- **TRACE**	: Most detailed information. Expect these to be written to logs only. Since version 1.2.12.
 
 Installation
 ------------
