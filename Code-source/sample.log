@@ -1,4 +1,0 @@
-3    [main] WARN  aljilogy.log4jnewbie.main3.HW_FileAppender  - my text to be logged as a WARN
- 3    [main] ERROR aljilogy.log4jnewbie.main3.HW_FileAppender  - my text to be logged as a ERROR
- 3    [main] FATAL aljilogy.log4jnewbie.main3.HW_FileAppender  - my text to be logged as a FATAL
- 

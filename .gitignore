@@ -5,4 +5,5 @@
 *.jar 
 *.ear
 *.war
+*.log
 .DS_Store
